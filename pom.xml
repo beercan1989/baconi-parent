@@ -27,6 +27,18 @@
         </license>
     </licenses>
 
+    <developers>
+        <developer>
+            <id>beercan1989</id>
+            <name>James Bacon</name>
+            <email>james@baconi.co.uk</email>
+            <url>https://github.com/beercan1989</url>
+            <roles>
+                <role>architect</role>
+            </roles>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
